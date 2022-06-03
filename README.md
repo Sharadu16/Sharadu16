@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saradindu Prakash</h1>
+<p>I have been completed my engineering in computer science in 2020 from Acharya Narendra Dev University of Agriculture & Technology, Kumarganj, Ayodhya</p>
 <h3 align="center">An Aspiring Full Stack Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharadu16&label=Profile%20views&color=0e75b6&style=flat" alt="sharadu16" /> </p>
