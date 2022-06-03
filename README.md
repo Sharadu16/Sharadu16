@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16yad3fONsodx3ptkci4ivCvrKLw84tglmsqoT6Ux68E/edit?usp=sharing](https://docs.google.com/document/d/16yad3fONsodx3ptkci4ivCvrKLw84tglmsqoT6Ux68E/edit?usp=sharing)
 
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-5019746-4183733.png" ></img>
+
 - ⚡ Fun fact **funny man😜**
 
 <h3 align="left">Connect with me:</h3>
