@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://sharadyadav2786.netlify.app/](https://sharadyadav2786.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sharadyadav2786.netlify.app/](https://sharadyadav.netlify.app/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/saradindu-prakash-13233b237**
 
