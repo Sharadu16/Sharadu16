@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sharadyadav1996.netlify.app/](https://sharadyadav1996.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/saradindu-prakash-13233b237**
+- 📫 How to reach me **https://www.linkedin.com/in/sharad2786/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16yad3fONsodx3ptkci4ivCvrKLw84tglmsqoT6Ux68E/edit?usp=sharing](https://docs.google.com/document/d/16yad3fONsodx3ptkci4ivCvrKLw84tglmsqoT6Ux68E/edit?usp=sharing)
 
